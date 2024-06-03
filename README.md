@@ -22,3 +22,5 @@ node script.js
 ## Usage
 
 Mixed Messages is intended to be a single executable that will provide a random combination of messages at runtime.
+
+<img width="438" alt="mixed-messages-example" src="https://github.com/e-runyon/mixed-messages/assets/136279901/3996f9c8-f3fe-4706-94a4-620dabf1bdbb">

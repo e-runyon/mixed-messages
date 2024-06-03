@@ -1,0 +1,16 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inspirational-quotes": "^2.0.1",
+    "random-fortunes": "^1.0.4"
+  }
+}

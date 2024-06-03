@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inspirational-quotes": "^2.0.1",
+    "random-fortunes": "^1.0.4"
+  }
 }

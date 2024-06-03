@@ -1,7 +1,6 @@
 const Quotes = require('inspirational-quotes');
 const Fortunes = require('random-fortunes');
 
-
 function randQuote() {
     const {text, author} = Quotes.getQuote();
     return `"${text}"\n-${author}`;
